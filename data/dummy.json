@@ -1,0 +1,300 @@
+[
+    {
+        "course_category": "salad",
+        "id": "000033e39b",
+        "ingredients": [
+            {
+                "text": "1 c. elbow macaroni"
+            },
+            {
+                "text": "1 c. cubed American cheese (4 ounce.)"
+            },
+            {
+                "text": "1/2 c. sliced celery"
+            },
+            {
+                "text": "1/2 c. minced green pepper"
+            },
+            {
+                "text": "3 tbsp. minced pimento"
+            },
+            {
+                "text": "1/2 c. mayonnaise or possibly salad dressing"
+            },
+            {
+                "text": "1 tbsp. vinegar"
+            },
+            {
+                "text": "3/4 teaspoon salt"
+            },
+            {
+                "text": "1/2 teaspoon dry dill weed"
+            }
+        ],
+        "title": "Dilly Macaroni Salad Recipe"
+    },
+    {
+        "course_category": "dessert",
+        "id": "00007bfd16",
+        "ingredients": [
+            {
+                "text": "6 -8 cups fresh rhubarb, or"
+            },
+            {
+                "text": "6 -8 cups frozen rhubarb, thawed"
+            },
+            {
+                "text": "1 12 cups granulated sugar"
+            },
+            {
+                "text": "6 ounces strawberry Jell-O gelatin dessert"
+            },
+            {
+                "text": "1 white cake mix (2 layer size)"
+            },
+            {
+                "text": "1 12 cups water"
+            },
+            {
+                "text": "12 cup butter or 12 cup margarine, melted"
+            }
+        ],
+        "title": "Strawberry Rhubarb Dump Cake"
+    },
+    {
+        "course_category": "bread",
+        "id": "0000973574",
+        "ingredients": [
+            {
+                "text": "2 cups flour"
+            },
+            {
+                "text": "1 tablespoon cinnamon"
+            },
+            {
+                "text": "2 teaspoons baking soda"
+            },
+            {
+                "text": "1 teaspoon salt"
+            },
+            {
+                "text": "14 teaspoon baking powder"
+            },
+            {
+                "text": "3 eggs"
+            },
+            {
+                "text": "2 cups sugar"
+            },
+            {
+                "text": "1 cup vegetable oil"
+            },
+            {
+                "text": "1 tablespoon vanilla"
+            },
+            {
+                "text": "2 cups grated raw zucchini"
+            },
+            {
+                "text": "1 cup walnuts"
+            }
+        ],
+        "title": "Zucchini Nut Bread"
+    },
+    {
+        "course_category": "salad",
+        "id": "0000a4bcf6",
+        "ingredients": [
+            {
+                "text": "1/2 cup green onions, chopped"
+            },
+            {
+                "text": "2 red pepper"
+            },
+            {
+                "text": "1 pound salmon, fillet or steak, raw Walmart Supercenter 1 lb For $6.94 thru 02/14"
+            },
+            {
+                "text": "1 tablespoon extra virgin olive oil"
+            },
+            {
+                "text": "1/4 teaspoon ground ginger"
+            },
+            {
+                "text": "2 cup MINUTE Premium White Rice, uncooked"
+            },
+            {
+                "text": "1/2 pound mixed salad greens"
+            },
+            {
+                "text": "2 carrot"
+            },
+            {
+                "text": "15 cherry tomatoes"
+            },
+            {
+                "text": "1/2 cup KRAFT Fat Free Italian Dressing"
+            },
+            {
+                "text": "40 piece/slice"
+            },
+            {
+                "text": "2 tablespoon KRAFT Grated Parmesan Cheese"
+            },
+            {
+                "text": "1 medium banana, sliced"
+            },
+            {
+                "text": "1 kiwi"
+            },
+            {
+                "text": "1 BREYERS Vanilla Lowfat Yogurt, 8-oz. container"
+            },
+            {
+                "text": "1/4 teaspoon ground cinnamon"
+            },
+            {
+                "text": "1 teaspoon granulated sugar"
+            }
+        ],
+        "title": "Salmon & Salad a La SPORTZ"
+    },
+    {
+        "course_category": "snack",
+        "id": "00010379bf",
+        "ingredients": [
+            {
+                "text": "200 grams Cake flour"
+            },
+            {
+                "text": "1 tsp Baking powder"
+            },
+            {
+                "text": "20 grams Sugar"
+            },
+            {
+                "text": "7 grams White sesame seeds"
+            },
+            {
+                "text": "70 ml Water"
+            },
+            {
+                "text": "20 cc Vegetable oil"
+            },
+            {
+                "text": "80 grams For candy coating: black sugar"
+            },
+            {
+                "text": "80 grams For candy coating: white sugar"
+            },
+            {
+                "text": "1/4 tsp For candy coating: soy sauce"
+            },
+            {
+                "text": "40 ml For candy coating: water"
+            }
+        ],
+        "title": "Brown Sugar 'Karintou' Snacks"
+    },
+    {
+        "course_category": "soup",
+        "id": "00011fc1f9",
+        "ingredients": [
+            {
+                "text": "1 cup lentils"
+            },
+            {
+                "text": "12 onion (finely chopped)"
+            },
+            {
+                "text": "1 tomatoes (seeded and diced)"
+            },
+            {
+                "text": "2 medium carrots (peeled and diced)"
+            },
+            {
+                "text": "2 stalks celery (trimmed and diced)"
+            },
+            {
+                "text": "3 tablespoons extra virgin olive oil or 3 tablespoons vegetable oil"
+            },
+            {
+                "text": "1 teaspoon garlic powder"
+            },
+            {
+                "text": "1 teaspoon fresh ginger root juice or 1 teaspoon vinaigrette"
+            },
+            {
+                "text": "4 cups vegetable broth"
+            },
+            {
+                "text": "12 teaspoon white pepper"
+            },
+            {
+                "text": "12 teaspoon chili powder (Berbere)"
+            },
+            {
+                "text": "3 cups water (or more)"
+            },
+            {
+                "text": "salt and black pepper"
+            }
+        ],
+        "title": "Lentils Vegetable Soup"
+    },
+    {
+        "course_category": "bread",
+        "id": "0001960f61",
+        "ingredients": [
+            {
+                "text": "1 loaf cinnamon-swirl bread, cubed (with raisin if you like them)"
+            },
+            {
+                "text": "1 (8 ounce) package cream cheese, cubed"
+            },
+            {
+                "text": "1 cup diced apple"
+            },
+            {
+                "text": "8 eggs"
+            },
+            {
+                "text": "2 12 cups half-and-half or 2 12 cups light cream"
+            },
+            {
+                "text": "8 tablespoons melted butter"
+            },
+            {
+                "text": "14 cup maple syrup"
+            }
+        ],
+        "title": "Apple Cinnamon French Toast Strata"
+    },
+    {
+        "course_category": "bread",
+        "id": "0001a2f336",
+        "ingredients": [
+            {
+                "text": "1 lb sweet Italian sausage or 1 lb hot Italian sausage"
+            },
+            {
+                "text": "1 (8 ounce) package mozzarella cheese"
+            },
+            {
+                "text": "14 teaspoon italian seasoning (optional)"
+            },
+            {
+                "text": "14 teaspoon garlic salt (optional)"
+            },
+            {
+                "text": "0.5 (13 ounce) jar spaghetti sauce (optional)"
+            },
+            {
+                "text": "14 teaspoon olive oil"
+            },
+            {
+                "text": "1 lb pizza dough (can be bought at some grocery stores and most pizza restaurants. Get the ready-made kind, not Boboli)"
+            }
+        ],
+        "title": "Sausage Bread"
+    }]
